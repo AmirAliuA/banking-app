@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ex8t7Nju1Cwcf1RzcuF/VBJvpA3GXmL1+9o2EF+bMPpNHArPcdFxAqAKYdei6SSlZXc7PpEtx+B3JWaz8jeFw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\BankingApp\\BankingApp\\BankingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
